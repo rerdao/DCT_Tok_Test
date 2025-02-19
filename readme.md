@@ -1,8 +1,8 @@
-# Waste2Earn "Waste" ICRC-1 Fungible Token
+# DC Token ICRC-1 Fungible Token
 
-Ledger Canister ID: [zozfm-uaaaa-aaaaj-qnfkq-cai](https://dashboard.internetcomputer.org/canister/zozfm-uaaaa-aaaaj-qnfkq-cai)
+Ledger Canister ID: [
 
-Index Canister ID: [za3ie-pqaaa-aaaaj-qnflq-cai](https://dashboard.internetcomputer.org/canister/za3ie-pqaaa-aaaaj-qnflq-cai)
+Index Canister ID: [
 
 
 ## Overview
